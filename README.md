@@ -13,3 +13,6 @@ The title of the page says
 3. Client Testimonials
 4. Contact address
 5. About the team
+  
+For more details about the webpage visit [About Vecta corp](https://www.dccomics.com/characters/batman) or click on the below image.  
+![Batman](https://www.dccomics.com/sites/default/files/styles/character_thumb_160x160/public/Char_Profile_Batman_20190116_5c3fc4b40faec2.47318964.jpg).
