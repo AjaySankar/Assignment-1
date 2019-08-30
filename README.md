@@ -2,7 +2,7 @@
 
 ### About the title of the page
 The title of the page says  
->_Let us save the Rain Forests!!_
+>_Business solutions ahead!!_
 
 ### Contents of the web page
 1. Welcome note
